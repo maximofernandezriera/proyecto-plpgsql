@@ -73,4 +73,4 @@ Por ejemplo, si quisieras agregar a un amigo llamado “Juan” cuya fecha de na
 
 # El reto
 
-Implementa las funciones en el entorno que prefieras.
+Implementa y explota este miniproyecto en el entorno que prefieras.
