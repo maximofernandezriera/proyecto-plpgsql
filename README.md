@@ -42,7 +42,7 @@ Crea una base de datos para almacenar información sobre tus amigos y sus cumple
 
         -- Finalmente, creamos la función "dias_para_cumpleaños" que calcula cuántos días faltan para el próximo cumpleaños de cada amigo
         CREATE OR REPLACE FUNCTION dias_para_cumpleaños()
-        RETURNS TABLE (nombre TEXT, dias INTEGER) AS $$
+        RETURNS TABLE (nom TEXT, dias INTEGER) AS $$
         DECLARE
             hoy DATE := CURRENT_DATE;
         BEGIN
